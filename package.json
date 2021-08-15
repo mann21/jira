@@ -3,7 +3,7 @@
 	"version":"0.01",
 	"description":"Jira App",
 	"scripts":{
-		"start":"node script.js"'
+		"start":"node script.js",
 		"liveServer.settings.port": 5502
 	}
 }
