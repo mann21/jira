@@ -4,6 +4,6 @@
 	"description":"Jira App",
 	"scripts":{
 		"start":"node script.js",
-        "liveServer.settings.port": 5502
+        "liveServer.settings.port": "5502"
     }
 }
